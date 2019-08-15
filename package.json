@@ -1,0 +1,7 @@
+{
+  "name": "hello-wercker",
+  "version": "1.0.0",
+  "description": "hello-wercker project",
+  "main": "server.js",
+  "private": true
+}
